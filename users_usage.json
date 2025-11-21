@@ -1,0 +1,18 @@
+{
+  "example_user": {
+    "gender": "Male",
+    "SeniorCitizen": 1,
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": 12,
+    "Contract": "One year",
+    "InternetService": "DSL",
+    "PhoneService": "Yes",
+    "TechSupport": "No",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "No",
+    "MonthlyCharges": 65.3,
+    "TotalCharges": 783.6,
+    "ServicesCount": 4
+  }
+}
